@@ -4,7 +4,7 @@ A login screen ui built in flutter
 ## Screen Shots
 
 Here are some of the project screen shots.<br><br><br>
-<img src="assets/ss1.png" width="250"/> <img src="assets/ss2.png" width="250"/>
+<img src="assets/ss1.jpg" width="250"/> <img src="assets/ss2.jpg" width="250"/>
 
 ## Developer(s)
 **Ashutosh Dubey**
